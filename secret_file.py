@@ -6,3 +6,4 @@ import secret
 print("This is a secret file");
 
 fixed;
+test_fire;
