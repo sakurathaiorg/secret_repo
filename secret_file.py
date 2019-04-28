@@ -10,3 +10,5 @@ test_fire;
 
 fawefawef
 test what happened after delete JIRA app
+
+testest slack plugin
